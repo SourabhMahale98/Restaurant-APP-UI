@@ -1,0 +1,51 @@
+{
+	"salad": [{
+			"name": "Caesar Salad",
+			"price": 10,
+			"image": "asset/images/salad1.jpg"
+		},
+		{
+			"name": "Waldorf salad",
+			"price": 30,
+			"image": "asset/images/salad2.jpg"
+		},
+		{
+			"name": "Greek Salad",
+			"price": 20,
+			"image": "asset/images/salad3.jpg"
+		}
+	],
+	"soup": [{
+			"name": "Lentil Soup",
+			"price": 20,
+			"image": "asset/images/soup1.jpg"
+		},
+		{
+			"name": "French Onion Soup",
+			"price": 10,
+			"image": "asset/images/soup2.jpg"
+		},
+		{
+			"name": "Chowder Soup",
+			"price": 50,
+			"image": "asset/images/soup3.jpg"
+			
+		}
+	],
+	"sweet": [{
+			"name": "Laddu",
+			"price": 5,
+			"image": "asset/images/sweet1.jpg"
+		},
+		{
+			"name": "Gulabjam",
+			"price": 50,
+			"image": "asset/images/sweet2.jpg"
+		},
+		{
+			"name": "sweet cake",
+			"price": 80,
+			"image": "asset/images/sweet3.jpg"
+		}
+	]
+}
